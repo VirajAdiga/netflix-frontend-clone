@@ -1,1 +1,1 @@
-# reddit-search-vanilla-js
+# Netflix frontend clone
